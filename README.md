@@ -1,4 +1,4 @@
-# Hello! 👋 My Name is [Your Username]
+# Hello! 👋 My Name is Doguhan
 
 ## 🚀 About Me
 Hello! I'm a software developer who is trying to specialize in cybersecurity. I also have an interest in network security.
