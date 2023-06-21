@@ -3,7 +3,7 @@
 ## 🚀 About Me
 Hello! I'm a software developer who is trying to specialize in cybersecurity. I also have an interest in network security.
 
-## 💼 Skills
+## 💼 My Interests
 - 🔍 SQL - Database management and querying
 - 🌐 LUA - Scripting language for game development
 - 🎨 HTML and CSS - Web design and styling
@@ -13,8 +13,6 @@ Hello! I'm a software developer who is trying to specialize in cybersecurity. I 
 - 🇬🇧 English - Fluent
 - 🇷🇺 Russian - Fluent
 
-## 📚 Education
-- Bachelor's Degree in Software Engineering from Bauman Moscow State Technical University, Moscow, Russia
 
 ## 🔒 Cybersecurity
 The field of cybersecurity is one of the most exciting areas in the world of technology for me. It has become a great passion to identify security vulnerabilities and create solutions to protect networks and systems.
