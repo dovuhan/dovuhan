@@ -30,8 +30,4 @@
 
 <br><br>
 
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=dovuhan&theme=github_dark" />
-
-<img width="49%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=dovuhan&theme=github_dark" />
-
 </div>
