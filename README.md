@@ -2,42 +2,60 @@
 
 # Doğuhan
 
-**Network • VPN • Infrastructure • Backend**
+```txt
+VPN • Networking • Infrastructure • Backend
+```
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=VPN+%26+Network+Technologies;Backend+Systems;Linux+%26+Infrastructure;Automation+Tools" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=VPN+%26+Network+Technologies;Linux+Infrastructure;Backend+Systems;Automation+%26+Security" />
 
-<br><br>
+<br>
 
-<img src="https://skillicons.dev/icons?i=go,python,js,ts,nodejs,swift,linux,bash,docker,nginx,postgres,redis,mongodb,git,github,cloudflare,aws,azure,gcp,vscode" />
-
-<br><br>
-
-<img src="https://img.shields.io/badge/WireGuard-88171A?style=for-the-badge&logo=wireguard&logoColor=white" />
-<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=for-the-badge&logo=openvpn&logoColor=white" />
-<img src="https://img.shields.io/badge/IPSec-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/StrongSwan-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
-<img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" />
-<img src="https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=white" />
-<img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white" />
-<img src="https://img.shields.io/badge/Debian-A81D33?style=for-the-badge&logo=debian&logoColor=white" />
-<img src="https://img.shields.io/badge/Bash-121011?style=for-the-badge&logo=gnubash&logoColor=white" />
-<img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-<img src="https://img.shields.io/badge/TCP%2FIP-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/DNS-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Proxy-0D1117?style=for-the-badge" />
-<img src="https://img.shields.io/badge/Tunneling-0D1117?style=for-the-badge" />
+<img src="https://skillicons.dev/icons?i=go,python,js,ts,nodejs,swift,linux,bash,docker,nginx,postgres,redis,mongodb,git,github,cloudflare,vscode" />
 
 <br><br>
 
-<img width="850" src="https://streak-stats.demolab.com?user=dovuhan&theme=prussian&hide_border=true&border_radius=12&locale=ru&card_width=850" />
+<img src="https://img.shields.io/badge/WireGuard-88171A?style=flat-square&logo=wireguard&logoColor=white" />
+<img src="https://img.shields.io/badge/OpenVPN-EA7E20?style=flat-square&logo=openvpn&logoColor=white" />
+<img src="https://img.shields.io/badge/IPSec-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/StrongSwan-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/TCP/IP-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/DNS-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Proxy-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Tunneling-111111?style=flat-square" />
 
-<br><br>
+</div>
 
-<img width="850" src="https://github-readme-stats.vercel.app/api?username=dovuhan&show_icons=true&theme=github_dark&hide_border=true&border_radius=12&title_color=58A6FF&icon_color=58A6FF&text_color=C9D1D9&bg_color=00000000" />
+---
 
-<br><br>
+## About
 
-<img width="850" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovuhan&layout=compact&theme=github_dark&hide_border=true&border_radius=12&title_color=58A6FF&text_color=C9D1D9&bg_color=00000000" />
+- Working on VPN and networking technologies  
+- Focused on backend systems and infrastructure  
+- Linux, tunnels, proxies and automation tools  
+- Interested in low-level networking and security  
+
+---
+
+## Stack
+
+```txt
+Go • Python • JavaScript • TypeScript • Swift
+Linux • Docker • Nginx • PostgreSQL • Redis
+WireGuard • OpenVPN • Cloudflare • Bash
+```
+
+<div align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=dovuhan&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovuhan&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
+
+</div>
+
+<br>
+
+<div align="center">
+
+<img width="850" src="https://streak-stats.demolab.com?user=dovuhan&theme=github-dark-blue&hide_border=true&border_radius=10" />
 
 </div>
