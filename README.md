@@ -19,6 +19,18 @@
 <img src="https://img.shields.io/badge/Tunneling-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
 <img src="https://img.shields.io/badge/Security-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/VLESS-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/VMess-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Xray-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/XTLS-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Reality-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Trojan-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Shadowsocks-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/Hysteria-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/TUIC-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/gRPC-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/WebSocket-0A0A0A?style=flat-square" />
+<img src="https://img.shields.io/badge/QUIC-0A0A0A?style=flat-square" />
 
 </div>
 
