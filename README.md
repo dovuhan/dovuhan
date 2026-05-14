@@ -5,7 +5,7 @@
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,js,ts,nodejs,swift,bash,linux,docker,nginx,postgres,redis,mongodb,git,github,cloudflare,vscode" />
+<img src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,js,ts,nodejs,swift,bash,linux,docker,nginx,postgres,redis,mongodb,git,github,cloudflare,vscode,kali,ubuntu,debian,arch,ubuntu,aws,gcp,azure,prometheus,grafana,kubernetes,ansible,terraform,openshift,jenkins" />
 
 <br><br>
 
