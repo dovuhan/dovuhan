@@ -1,1 +1,1 @@
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=dovuhan&theme=dark&locale=ru)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=dovuhan&theme=prussian&hide_border=true&locale=ru)](https://git.io/streak-stats)
