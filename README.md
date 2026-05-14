@@ -1,8 +1,5 @@
 <div align="center">
   
-```txt
-VPN • Networking • Infrastructure • Backend
-```
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=WireGuard+%26+VPN+Technologies;Linux+Infrastructure;Backend+Systems;Networking+%26+Security;Low+Level+Development" />
 
