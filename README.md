@@ -1,5 +1,7 @@
 <div align="center">
 
+# Doğuhan
+
 **Network • VPN • Infrastructure • Backend**
 
 <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=18&duration=3000&pause=800&color=58A6FF&center=true&vCenter=true&width=500&lines=VPN+%26+Network+Technologies;Backend+Systems;Linux+%26+Infrastructure;Automation+Tools" />
@@ -25,5 +27,17 @@
 <img src="https://img.shields.io/badge/DNS-0D1117?style=for-the-badge&logo=cloudflare&logoColor=white" />
 <img src="https://img.shields.io/badge/Proxy-0D1117?style=for-the-badge" />
 <img src="https://img.shields.io/badge/Tunneling-0D1117?style=for-the-badge" />
+
+<br><br>
+
+<img width="850" src="https://streak-stats.demolab.com?user=dovuhan&theme=prussian&hide_border=true&border_radius=12&locale=ru&card_width=850" />
+
+<br>
+
+<img width="850" src="https://github-readme-stats.vercel.app/api?username=dovuhan&show_icons=true&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9&icon_color=58A6FF" />
+
+<br>
+
+<img width="850" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dovuhan&layout=compact&theme=transparent&hide_border=true&title_color=58A6FF&text_color=C9D1D9" />
 
 </div>
