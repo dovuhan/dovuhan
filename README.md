@@ -1,16 +1,14 @@
 <div align="center">
-
-# Doğuhan
-
+  
 ```txt
 VPN • Networking • Infrastructure • Backend
 ```
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=WireGuard+%26+VPN+Technologies;Linux+Infrastructure;Backend+Systems;Networking+%26+Security" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=18&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=WireGuard+%26+VPN+Technologies;Linux+Infrastructure;Backend+Systems;Networking+%26+Security;Low+Level+Development" />
 
 <br>
 
-<img src="https://skillicons.dev/icons?i=go,python,bash,linux,docker,nginx,postgres,redis,git,github,cloudflare,vscode" />
+<img src="https://skillicons.dev/icons?i=go,python,c,cpp,rust,js,ts,nodejs,swift,bash,linux,docker,nginx,postgres,redis,mongodb,git,github,cloudflare,vscode" />
 
 <br><br>
 
@@ -22,29 +20,10 @@ VPN • Networking • Infrastructure • Backend
 <img src="https://img.shields.io/badge/DNS-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/Proxy-111111?style=flat-square" />
 <img src="https://img.shields.io/badge/Tunneling-111111?style=flat-square" />
+<img src="https://img.shields.io/badge/Linux-111111?style=flat-square&logo=linux&logoColor=white" />
+<img src="https://img.shields.io/badge/Security-111111?style=flat-square" />
 
 </div>
-
----
-
-## About
-
-- Working on VPN and network technologies
-- Backend and infrastructure focused
-- Linux systems, tunnels and proxies
-- Automation and low-level networking
-- Security oriented development
-
----
-
-## Stack
-
-```txt
-Go • Python • Bash
-Linux • Docker • Nginx
-PostgreSQL • Redis
-WireGuard • OpenVPN • Cloudflare
-```
 
 ---
 
